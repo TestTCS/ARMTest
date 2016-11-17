@@ -6,7 +6,7 @@
     "newStorageAccountName": {
     "type": "string",
     "metadata": {
-        "description": "Unique DNS name for the storage account where the virtual machine's disks will be placed."
+        "description": "Unique DNS name ok for the storage account where the virtual machine's disks will be placed."
     }
     },
     "adminUsername": {
